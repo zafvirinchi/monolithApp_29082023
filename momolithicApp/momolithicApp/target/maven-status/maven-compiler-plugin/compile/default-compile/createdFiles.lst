@@ -1,0 +1,11 @@
+com\tcs\momolithicApp\service\ProductService.class
+com\tcs\momolithicApp\repo\OrderRepository.class
+com\tcs\momolithicApp\controller\OrderController.class
+com\tcs\momolithicApp\repo\ProductRepository.class
+com\tcs\momolithicApp\entity\OrderProductPK.class
+com\tcs\momolithicApp\entity\OrderProduct.class
+com\tcs\momolithicApp\controller\ProductController.class
+com\tcs\momolithicApp\entity\Order.class
+com\tcs\momolithicApp\entity\Product.class
+com\tcs\momolithicApp\MomolithicAppApplication.class
+com\tcs\momolithicApp\service\OrderService.class
